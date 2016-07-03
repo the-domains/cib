@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3032582
+color:
+  saturation: 0.8477443
+  lightness: 0.4154135
+  brandStrength: 0.5225077
+  brandColors:
+    - '#000000'
+    - '#0000FE'
+    - '#0000C0'
+    - '#00006A'
+    - '#000040'
+  rhythmicContrast: 0.947995
+name: 'cib '
