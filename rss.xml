@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[cib ]]></title>
         <description><![CDATA[cib ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cib/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 07:30:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 07:31:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cib/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[cib]]></title>
             <description><![CDATA[<article><h1>cib</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed5e6140-22e4-43e3-9d09-f3d2823e53d0.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/266607d5-e7b4-4dd4-b3cd-9463798b2855.jpg</link>
             <guid isPermaLink="false">bfccbe22-4c41-4b34-a785-3f4faebb97b2</guid>
             <pubDate>Tue, 12 Jul 2016 07:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Chairman]]></title>
+            <description><![CDATA[<article><h1>The Chairman</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82c11606eb90bab1875ec5b0be4c7a8b/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F706a343c-cfb5-4c67-b5af-41a1a5dcf2c1.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/706a343c-cfb5-4c67-b5af-41a1a5dcf2c1.jpg</link>
+            <guid isPermaLink="false">a4d3cbbb-355c-4b12-832c-6311c27e2e03</guid>
+            <pubDate>Tue, 12 Jul 2016 07:31:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
