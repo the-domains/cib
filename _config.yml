@@ -1,9 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3032582
 color:
-  saturation: 0.8477443
-  lightness: 0.4154135
+  saturation: 0.415683
   brandStrength: 0.5225077
+  lightness: 0.608769
   brandColors:
     - '#000000'
     - '#0000FE'
@@ -11,4 +22,5 @@ color:
     - '#00006A'
     - '#000040'
   rhythmicContrast: 0.947995
+layout_spectrum: 1
 name: 'cib '
